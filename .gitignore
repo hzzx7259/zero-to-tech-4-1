@@ -17,3 +17,23 @@ dist/
 .DS_Store
 *.log
 .env*
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+
+# misc
+.DS_Store
+*.log
+.env*
+ 
